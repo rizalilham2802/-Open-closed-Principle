@@ -1,0 +1,14 @@
+D:\semester 3\pemrograman lanjut\modul 5 CouponWithoutOCP\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\CouponWithoutOCP.csprojAssemblyReference.cache
+D:\semester 3\pemrograman lanjut\modul 5 CouponWithoutOCP\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\CouponWithoutOCP.csproj.CoreCompileInputs.cache
+D:\semester 3\pemrograman lanjut\modul 5 CouponWithoutOCP\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\CouponWithoutOCP.exe.config
+D:\semester 3\pemrograman lanjut\modul 5 CouponWithoutOCP\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\CouponWithoutOCP.exe
+D:\semester 3\pemrograman lanjut\modul 5 CouponWithoutOCP\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\CouponWithoutOCP.pdb
+D:\semester 3\pemrograman lanjut\modul 5 CouponWithoutOCP\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\CouponWithoutOCP.exe
+D:\semester 3\pemrograman lanjut\modul 5 CouponWithoutOCP\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\CouponWithoutOCP.pdb
+D:\semester 3\pemrograman lanjut\modul 5 Open-closed Principle\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\CouponWithoutOCP.exe.config
+D:\semester 3\pemrograman lanjut\modul 5 Open-closed Principle\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\CouponWithoutOCP.exe
+D:\semester 3\pemrograman lanjut\modul 5 Open-closed Principle\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\CouponWithoutOCP.pdb
+D:\semester 3\pemrograman lanjut\modul 5 Open-closed Principle\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\CouponWithoutOCP.csprojAssemblyReference.cache
+D:\semester 3\pemrograman lanjut\modul 5 Open-closed Principle\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\CouponWithoutOCP.csproj.CoreCompileInputs.cache
+D:\semester 3\pemrograman lanjut\modul 5 Open-closed Principle\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\CouponWithoutOCP.exe
+D:\semester 3\pemrograman lanjut\modul 5 Open-closed Principle\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\CouponWithoutOCP.pdb
